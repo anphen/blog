@@ -6,7 +6,7 @@
 title: anphen的欢乐渔场
 subtitle: 🐟乐园
 description: 一花一世界,一叶一菩提
-author: 村长
+author: anphen
 language: zh-Hans
 timezone:
 
@@ -34,7 +34,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
