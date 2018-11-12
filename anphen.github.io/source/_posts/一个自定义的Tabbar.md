@@ -9,5 +9,5 @@ tags: 自定义控件
 使用方法：`pod 'ZXCustomTabBar'`
 
 效果：
-<img src="http://pf8asqbgd.bkt.clouddn.com/2018-09-18%2011.53.03.gif" width="250" align=center />
+<img src="一个自定义的Tabbar/tabbar.gif" width="250" align=center />
 

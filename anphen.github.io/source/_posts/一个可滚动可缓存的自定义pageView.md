@@ -8,5 +8,5 @@ tags: 自定义控件
 使用方法：`pod 'ZXScrollPageView'`
 
 效果：
-<img src="http://pf8asqbgd.bkt.clouddn.com/2018-09-18%2011.11.41.gif" width="250" align=center />
+<img src="一个可滚动可缓存的自定义pageView/pageview.gif" width="250" align=center />
 

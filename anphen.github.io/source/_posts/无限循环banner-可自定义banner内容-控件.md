@@ -8,5 +8,5 @@ tags: 自定义控件
 
 使用方法：`pod 'ZXCycleBannerView'`
 效果：
-<img src="http://pf8asqbgd.bkt.clouddn.com/2018-09-18%2011.56.02.gif" width="250" align=center />
+<img src="无限循环banner-可自定义banner内容-控件/banner.gif" width="250" align=center />
 
